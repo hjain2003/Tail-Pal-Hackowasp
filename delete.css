@@ -1,0 +1,14 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.dabba
+{
+    border:2px solid black;
+    height:100px;
+    width:100px;
+    margin-left:50px;
+    margin-right:60px;
+    border-radius:5px;
+}
